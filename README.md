@@ -1,7 +1,8 @@
 # RAD_FADE_SDL_DREAMCAST
 RAD_FADE SDL DREAMCAST
-RADsoft 2003 ian m r  fading sound modplaying wav playing
+RADsoft 2003 Ian Micheal  fading sound modplaying wav playing
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+/*exmaple from RADsoft music wav's png's cross-fading alpha blending ect*/
 
 Use this example for your intro's and cutsenes 
 
