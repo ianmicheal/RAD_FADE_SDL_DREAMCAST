@@ -1,0 +1,32 @@
+
+
+RADsoft 2003 ian m r  fading sound modplaying wav playing
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Use this example for your intro's and cutsenes 
+
+how to use it is easy look at how it works copy it
+
+the  fading.h must be put in to your projects dir EG"your game" and then added in every file that uses the fading routine 
+
+like this 
+
+#include "fading.h"
+
+This lib is  from all over and i used simple names to make it easy i borrowed bits from sdl games that i went throu  all were open source and free to modify...
+
+
+have fun the example comes with images   when  buring you must have the intro dir on your cd to test this or it will not work change the image names when you change them to yours in the example source
+
+you must have SDL_image SDL_mixer  SDL_TTF but 
+
+SDL_TTF is not need as i did not include my jazzy font demo yet ok
+
+so edit it out of the make file 
+
+mod the make file to your system dir structor 
+reaper_angel@hotmail.com
+
+=============================================================
+
+lib must be placed in the lib folder in kos  libRAD_fade.a
