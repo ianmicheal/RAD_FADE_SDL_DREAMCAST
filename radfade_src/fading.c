@@ -1,7 +1,4 @@
-/* 
-Radfade  this version is not fully coded in all by imrtech its uses examples 
-from the SDL homepage etc
-  */
+
   
 //////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -17,9 +14,7 @@ Thanks ("no one can survive in a vacuum NOt EVEN ME")
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////
-http://www.imrtech.mirrorz.com/ main site and can be translated use the translater tool
-on the menu.  also were all downloads are note refresh a lot due to your isp not updating
-your dns cache the site will show as not there just keep hiting refresh 5 or 6 times
+
 
 AND ereckA There shes is hun!
 
