@@ -1,22 +1,4 @@
 
-  
-//////////////////////////////////////////////////////////////////////////////////////////////
-
-Thanks ("no one can survive in a vacuum NOt EVEN ME")
-------
-
-* SDL by Sam Latinga and the SDL opensource team.
-* Black aura  ' kos raw image loading routine
-* Warmtoe     ' maim source and support
-* Blue crab   ' SDL help and support
-* Bero        ' Porter of SDL to dreamcast
-* Dan potter  ' kos free tools an /os for dreamcast
-
-
-///////////////////////////////////////////////////////////////////////////////////////////////
-
-
-AND ereckA There shes is hun!
 
 
 /*
