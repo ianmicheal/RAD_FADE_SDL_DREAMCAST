@@ -1,23 +1,4 @@
 
-//////////////////////////////////////////////////////////////////////////////////////////////
-
-Thanks ("no one can survive in a vacuum NOt EVEN ME")
-------
-
-* SDL by Sam Latinga and the SDL opensource team.
-* Black aura  ' kos raw image loading routine
-* Warmtoe     ' maim source and support
-* Blue crab   ' SDL help and support
-* Bero        ' Porter of SDL to dreamcast
-* Dan potter  ' kos free tools an /os for dreamcast
-
-
-///////////////////////////////////////////////////////////////////////////////////////////////
-http://www.imrtech.mirrorz.com/ main site and can be translated use the translater tool
-on the menu.  also were all downloads are note refresh a lot due to your isp not updating
-your dns cache the site will show as not there just keep hiting refresh 5 or 6 times
-
-AND ereckA There shes is hun!
 
 
 /*
