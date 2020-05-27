@@ -14,14 +14,12 @@ like this
 
 #include "fading.h"
 
-This lib is  from all over and i used simple names to make it easy i borrowed bits from sdl games that i went throu  all were open source and free to modify...
+.
 
 
 have fun the example comes with images   when  buring you must have the intro dir on your cd to test this or it will not work change the image names when you change them to yours in the example source
 
-you must have SDL_image SDL_mixer  SDL_TTF but 
-
-SDL_TTF is not need as i did not include my jazzy font demo yet ok
+you must have SDL_image SDL_mixer
 
 so edit it out of the make file 
 
